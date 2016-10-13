@@ -1,0 +1,11 @@
+[package]
+name = "booru_d"
+version = "0.0.1"
+authors = ["Oliver Hattshire <hattshire@gmail.com>"]
+
+[dependencies]
+hyper = "0.9.10"
+json = "0.10.2"
+conrod = "0.44.0"
+piston_window = "0.52.0"
+image = "*"
